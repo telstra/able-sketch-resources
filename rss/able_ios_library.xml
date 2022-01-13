@@ -11,7 +11,7 @@
     <item>
       <title>02 Able iOS</title>
       <pubDate>Thu, 18 May 2021 14:50:00 +1000</pubDate>
-      <enclosure url="https://github.com/telstra/able-sketch-resources/blob/main/libraries/02%20Able%20iOS.sketch?raw=true" type="application/octet-stream" sparkle:version="%version"/>
+      <enclosure url="https://github.com/telstra/able-sketch-resources/blob/main/libraries/02%20Able%20iOS.sketch?raw=true" type="application/octet-stream" sparkle:version="55"/>
     </item>
   </channel>
 </rss>
