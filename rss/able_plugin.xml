@@ -6,7 +6,7 @@
 <description>Able Design System Sketch Plugin</description>
 <language>en</language>
 <item>
-  <enclosure url="https://github.com/telstra/able-sketch-resources/blob/main/plugin/Able.sketchplugin.zip?raw=true" sparkle:version="5.2"/>
+  <enclosure url="https://github.com/telstra/able-sketch-resources/blob/main/plugin/Able.sketchplugin.zip?raw=true" sparkle:version="7.0"/>
 </item>
 </channel>
 </rss>
